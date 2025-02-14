@@ -13,13 +13,8 @@ This **BMI (Body Mass Index) Calculator** is a simple application that allows us
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/yourusername/bmi-calculator.git
+git clone https://github.com/yourusername/bmi-calculator.git](https://github.com/Skillllz/BMI-calculator.git
 cd bmi-calculator
-```
-
-### 2️⃣ Run the Application (Python Version)
-```bash
-python bmi_calculator.py
 ```
 
 ### 3️⃣ Example Usage
